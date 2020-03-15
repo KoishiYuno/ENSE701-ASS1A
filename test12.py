@@ -9,7 +9,3 @@ class test1(unittest.TestCase):
 
     def test1_3(self):
         print 'last text'
-
-if _name_ == "_main_":
-    unittest.main()
-
